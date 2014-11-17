@@ -1,0 +1,8 @@
+Package: org.thebigboss.weatherfix8
+Name: WeatherFix8
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix iOS 8 weather animation bug when resolution zoomed.
+Author: PoomSmart
+Section: Tweaks
